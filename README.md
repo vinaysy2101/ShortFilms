@@ -9,7 +9,7 @@
             background-color:brown;
             color: aliceblue;
             width:100%;
-            padding:10px;
+            padding:5px;
         }
         body{
             text-align: center;
