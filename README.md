@@ -21,9 +21,7 @@
     </style>
 </head>
 <body>
-    <header class="hdr">
-        <h1>Short Films</h1>
-    </header>
+    <h1 class="hdr">Short Films</h1>
     <main>
         <h1 style="color:red">INTRODUCTION</h1>
         <iframe width="315" height="197" src="https://www.youtube.com/embed/tCdedw17ifo?si=kvqWHPhmP53iYDD-"
