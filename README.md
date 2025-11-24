@@ -15,9 +15,6 @@
             text-align: center;
             background-color: pink;
         }
-        h1{
-            color:aliceblue;
-            }
     </style>
 </head>
 <body>
