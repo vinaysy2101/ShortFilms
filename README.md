@@ -8,7 +8,7 @@
             text-align: center;
             background-color:brown;
             color: aliceblue;
-            width: 100%;
+            padding:20px;
         }
         body{
             text-align: center;
